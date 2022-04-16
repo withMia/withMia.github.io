@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>项目进度（一）</title>
-    <url>/2018/03/01/12/</url>
+    <title>仿去哪儿网app项目进度（一）</title>
+    <url>/2022/04/16/30/</url>
     <content><![CDATA[]]></content>
       <categories>
-        <category>管理项目</category>
+        <category>项目</category>
       </categories>
-  </entry>
-  <entry>
-    <title>第一篇学习博客</title>
-    <url>/2022/03/29/28/</url>
-    <content><![CDATA[<p>这是一篇适用的文</p>
-<span id="more"></span>
-]]></content>
-      <categories>
-        <category>学习博客</category>
-      </categories>
+      <tags>
+        <tag>vue js</tag>
+      </tags>
   </entry>
 </search>
